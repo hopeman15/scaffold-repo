@@ -9,4 +9,5 @@ Template for quick starting new projects
 - [ ] Update the [code of conduct](CODE_OF_CONDUCT.md) email.
 - [ ] Update [funding](.github/FUNDING.yml)
 - [ ] Update [license](LICENSE) information.
+- [ ] Update [PR template](.github/PULL_REQUEST_TEMPLATE.md)
 - [ ] Update [workflows](.github/workflows/main.yml)
