@@ -5,6 +5,8 @@
 Template for quick starting new projects
 
 # TODOS
+
 - [ ] Update the [code of conduct](CODE_OF_CONDUCT.md) email.
+- [ ] Update [funding](.github/FUNDING.yml)
 - [ ] Update [license](LICENSE) information.
-- [ ] Update [workflows](.github/workflows/)
+- [ ] Update [workflows](.github/workflows/main.yml)
