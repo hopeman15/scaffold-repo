@@ -3,5 +3,13 @@
   "extends": [
     "config:base"
   ],
-  "labels": ["dependencies"]
+  "labels": [
+    "dependencies :bricks:"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch"],
+      "automerge": true
+    }
+  ]
 }
